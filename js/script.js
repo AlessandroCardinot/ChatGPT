@@ -1,7 +1,7 @@
 const form_pergunta_chat = document.getElementById('form-pergunta-chat');
 
 //api key
-const openai_api_key = "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";
+const openai_api_key = "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";
 
 if (form_pergunta_chat) {
     var mostrar_pergunta = document.getElementById("mostrar_pergunta");
