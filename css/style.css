@@ -1,0 +1,22 @@
+#titulo {
+    margin-top: 25px;
+    margin-bottom: 50px;
+    font-size: 3em;
+    text-align: center;
+}
+.primery-text {
+    font-size: 1.75em;
+}
+#pergunta {
+    margin-bottom: 15px;
+}
+.btn {
+    padding: 10px 20px;
+    font-size: 1.25em;
+}
+.btn:hover {
+    padding: 10px 20px;
+    font-size: 1.25em;
+    background-color: #696969;
+    border: #696969;
+}
